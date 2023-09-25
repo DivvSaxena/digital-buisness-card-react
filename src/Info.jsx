@@ -1,10 +1,10 @@
-import React , {Component} from 'react'
-
+import React from 'react'
+import img1 from './images/profile-pic.png'
 
 export default function Info(){
     return(   
         <div className= "info-section" >
-            <img src={"../images/profile-pic.png"} />
+            <img src={img1} alt=""/>
             <h1>Divv Saxena</h1>
             <p>Frontend Developer</p>
             <div className="site-domain">
