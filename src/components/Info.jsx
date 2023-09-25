@@ -1,10 +1,9 @@
 import React from 'react'
-import image from './images/profile'
 
 export default function Info(){
     return(   
         <div className= "info-section" >
-            <img src="../images/profile-pic.png" />
+            <img src="./images/profile-pic.png" />
             <h1>Divv Saxena</h1>
             <p>Frontend Developer</p>
             <div className="site-domain">
