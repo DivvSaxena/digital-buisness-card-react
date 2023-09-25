@@ -185,4 +185,13 @@ body{
     margin: 0 auto;
     max-width: 325px;
   }
+  .icons-club{
+    padding-left: 0;
+  }
+
+  .header-btn{
+    width: 90%;
+    margin: 40px auto 10px;
+  }
+  
 }
