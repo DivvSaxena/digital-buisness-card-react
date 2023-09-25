@@ -3,7 +3,7 @@ import React from 'react'
 export default function Info(){
     return(   
         <div className= "info-section" >
-            <img src="../../images/profile-pic.png" width="150px"/>
+            <img src="../images/profile-pic.png" width="150px"/>
             <h1>Divv Saxena</h1>
             <p>Frontend Developer</p>
             <div className="site-domain">
